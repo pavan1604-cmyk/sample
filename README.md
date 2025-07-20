@@ -2,4 +2,4 @@
 <br>
 this is my sample <br>repository
 <br>
-author-vicharapu pavan kumar
+author-vicharapu pavan kumar maleg
